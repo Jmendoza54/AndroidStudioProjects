@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Inventario(MVP)</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_product_count">Nombre:\nCantidad:</string>
+    <string name="item_product_data">%s \n(x%s)</string>
+    <string name="main_error_permission_denied">Lo sentimos, no tienes permiso para ver el inventario</string>
+    <string name="main_error_server">Error en el servidor, intente más tarde</string>
+    <string name="main_error_remove">Lo siento, usted no tiene permiso de eliminar un producto</string>
+    <string name="main_dialog_remove_title">Eliminar producto</string>
+    <string name="main_dialog_remove_message">Este producto se eliminara de forma permanente.</string>
+    <string name="main_dialog_remove_ok">Eliminar</string>
+    <string name="common_dialog_cancel">Cancelar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_product_hint_photoUrl">url de foto</string>
+    <string name="add_product_hint_name">nombre</string>
+    <string name="add_product_hint_quantity">cantidad</string>
+    <string name="add_product_message_validate_max_quantity">El valor debe ser menor a 1000.</string>
+    <string name="add_product_message_added_error">No se pudo guardar, intente mas tarde</string>
+    <string name="add_product_title">Añadir producto</string>
+    <string name="add_product_dialog_ok">Añadir</string>
+    <string name="add_product_message_alert_successfully">Producto añadido correctamente</string>
+    <string name="add_product_snackbar_action">OK</string>
+    <string name="common_validate_field_requiered">Campo Requerido</string>
+    <string name="common_validate_min_quantity">El valor debe ser mayor a 0</string>
+    <string name="detail_product_update_successfully">Producto actualizado ¿Desea ir al listado principal?</string>
+    <string name="detail_product_snackbar_action">Ir</string>
+    <string name="detail_product_update_error">Error al actualizar, intente más tarde o revise la cantidad.</string>
+</resources>

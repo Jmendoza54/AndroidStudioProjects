@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>main_message</key>
+        <value>Bienvenido a Advanz\\nRegistrese y espere su turno\\nGracias.</value>
+    </entry>
+
+    <entry>
+        <key>show_name</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>color_primary</key>
+        <value>#0009cc</value>
+    </entry>
+    <entry>
+        <key>color_text_message</key>
+        <value>#33b5e5</value>
+    </entry>
+    <entry>
+        <key>color_btn</key>
+        <value>#ff4081</value>
+    </entry>
+</defaultsMap>

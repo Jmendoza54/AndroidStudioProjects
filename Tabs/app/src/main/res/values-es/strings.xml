@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tablas</string>
+    <string name="tab_text_1">Tabb 1</string>
+    <string name="tab_text_2">Tabb 2</string>
+    <string name="tab_text_3">Tabb 3</string>
+    <string name="title_alert">Reemplaza con tu propia acción</string>
+    <string name="hello">Hola Mundo desde la sección:</string>
+</resources>

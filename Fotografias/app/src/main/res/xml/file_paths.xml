@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pahts>
+    <external-path
+        name="my_images"
+        path= "Android/data/com.jmendoza.fotografias/files/Pictures"/>
+</pahts>

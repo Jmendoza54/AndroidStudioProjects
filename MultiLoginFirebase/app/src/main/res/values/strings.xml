@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Login Firebase</string>
+    <string name="main_hint_username">Username</string>
+    <string name="main_hint_email">Email</string>
+    <string name="main_hint_provider">Provider</string>
+    <string name="imagen_perfil">Imagen perfil</string>
+    <string name="main_menu_sign_up">Cerrar Sesión</string>
+
+    <string name="facebook_application_id">2387122851365339</string>
+    <string name="fb_login_protocol_scheme">fb2387122851365339</string>
+</resources>

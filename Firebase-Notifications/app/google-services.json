@@ -1,0 +1,335 @@
+{
+  "project_info": {
+    "project_number": "58202698051",
+    "firebase_url": "https://curso-android-firebase-f6eff.firebaseio.com",
+    "project_id": "curso-android-firebase-f6eff",
+    "storage_bucket": "curso-android-firebase-f6eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:a30518c30d39b3ac",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.menudecomidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-im5g5fo6g5imumeti0lsvnvde0g4vkni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.menudecomidas",
+            "certificate_hash": "e375015f42e1544ac07b127ec7bddb755beb7aac"
+          }
+        },
+        {
+          "client_id": "58202698051-v98nb2urs0cvkqhn0l79kugoqrs85nrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.menudecomidas",
+            "certificate_hash": "9abe6135891a97001e0b8078e0dbeff9055fdebb"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:a19d54f55bca0ee6",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-4ts5abbtu94v6qs4oilch708e6qgvfif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.misfotografias",
+            "certificate_hash": "e375015f42e1544ac07b127ec7bddb755beb7aac"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:94473d7e9deeacd1",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.multilogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-nthf2bcf1fqap4miip0vo0qhhfa03g1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.multilogin",
+            "certificate_hash": "e375015f42e1544ac07b127ec7bddb755beb7aac"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:f545cde6490c852b",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-0kle5o3ft9dt2dp9ehjuilp7ld5eks7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.myapplication",
+            "certificate_hash": "e375015f42e1544ac07b127ec7bddb755beb7aac"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:ec7e250e71620e56",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.ofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-mfcuh0t96nfpekphqr4t2vic0gbt0uib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.ofertas",
+            "certificate_hash": "e375015f42e1544ac07b127ec7bddb755beb7aac"
+          }
+        },
+        {
+          "client_id": "58202698051-nrp30qau4js80aj0ivgopf8h2c4o01e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.ofertas",
+            "certificate_hash": "9abe6135891a97001e0b8078e0dbeff9055fdebb"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:c9e7c598b511a1ac",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.soportetcnico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-3du2dm5lrc7a0nnrm65djvj905be4s9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.soportetcnico",
+            "certificate_hash": "e375015f42e1544ac07b127ec7bddb755beb7aac"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58202698051:android:9e91acf2cb0a928c",
+        "android_client_info": {
+          "package_name": "com.compualgaba.juananfe.holamundofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58202698051-3ik4i0u1uaa5r972pk8k9lbmqv8ubm0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.compualgaba.juananfe.holamundofirebase",
+            "certificate_hash": "5ef7de83481bd92dee9c4d0c1f36977c84e8f62c"
+          }
+        },
+        {
+          "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_2t4OxNbkR7tVmcbv_Ib9IFEdlgVuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58202698051-r4k30pg9j5ulqbvonjutfnone7g0lr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

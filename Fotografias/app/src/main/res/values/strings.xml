@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fotografias</string>
+    <string name="label_gallery">Galeria</string>
+    <string name="label_camera">Cámara</string>
+    <string name="label_upload">Subir</string>
+    <string name="message_question_upload">¿Desea subir esta imagen?</string>
+    <string name="main_message_load_success">Imagen cargada exitosamente</string>
+    <string name="main_message_done">Listo</string>
+    <string name="main_message_upload_error">Hubo un error en la carga de la imagen</string>
+    <string name="main_message_delete_error">Error al eliminar la imagen</string>
+    <string name="main_message_delete_success">Eliminado correctamente</string>
+    <string name="main_message_error_not_found">La imagen no se pudo cargar¿Añadir una?</string>
+</resources>
