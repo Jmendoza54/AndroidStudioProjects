@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "425186272887",
+    "firebase_url": "https://inventario-82231.firebaseio.com",
+    "project_id": "inventario-82231",
+    "storage_bucket": "inventario-82231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425186272887:android:6d5211eed41cb866",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425186272887-ugeugr7tss12qgfu6ketkivaqjgoqctl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.inventario",
+            "certificate_hash": "5ef7de83481bd92dee9c4d0c1f36977c84e8f62c"
+          }
+        },
+        {
+          "client_id": "425186272887-agbaqvav6nslso56dkpm1ec79lh065b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.inventario",
+            "certificate_hash": "9abe6135891a97001e0b8078e0dbeff9055fdebb"
+          }
+        },
+        {
+          "client_id": "425186272887-3ho13d0al5v2dlldfkp1cigtkr8r5oah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDZEIByQ0bcIqG9sXiRHgamb4pgzuMfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425186272887-3ho13d0al5v2dlldfkp1cigtkr8r5oah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
